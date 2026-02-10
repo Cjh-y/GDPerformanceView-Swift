@@ -3,7 +3,7 @@ Shows FPS, CPU and memory usage, device model, app and iOS versions above the st
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage) 
 [![Pod Version](https://img.shields.io/badge/Pod-2.1.1-6193DF.svg)](https://cocoapods.org/)
-![Swift Version](https://img.shields.io/badge/xCode-12.0+-blue.svg)
+![Swift Version](https://img.shields.io/badge/Xcode-12.0+-blue.svg)
 ![Swift Version](https://img.shields.io/badge/iOS-9.0+-blue.svg) 
 ![Swift Version](https://img.shields.io/badge/Swift-5.0+-orange.svg)
 ![Plaform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
@@ -170,7 +170,7 @@ func performanceMonitor(didReport performanceReport: PerformanceReport) {
 
 ## Requirements
 - iOS 9.0+
-- xCode 12.0+
+- Xcode 12.0+
 
 ## Donations
 
